@@ -34,8 +34,8 @@
 ---
 
 ## 🛠 Tech Stack
-- **Programming Language:** ![Python](assets/images/python.png) **Python**  
-- **Database:** ![SQLite](assets/images/sqlite.png) **SQLite**
+- **Programming Language:** **Python**  
+- **Database:** **SQLite**
 
 ---
 
